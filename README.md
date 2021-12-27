@@ -7,5 +7,6 @@ The app currently supports ETH, USDC, and UNI. The app runs a Hardhat fork of Et
 
 ## to run the app
 npm install
+
 npm start
 ```
